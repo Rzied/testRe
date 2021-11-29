@@ -56,8 +56,8 @@ export default function Profile() {
                 />
               </h1>
               <span className="profile-role-tagline">
-                Knack of building applications with front and back
-                endoperations.
+                Knack of building applications with front and back endoperations
+                Z.
               </span>
             </span>
           </div>
